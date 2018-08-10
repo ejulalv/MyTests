@@ -4,7 +4,7 @@ Created on 10 ago. 2018
 @author: eJulalv
 '''
 import xlrd
-import pandas as pd
+import pandas as pd 
 
 
 
